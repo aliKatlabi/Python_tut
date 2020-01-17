@@ -1,3 +1,3 @@
 # Python_tut
 
-### this tutorial is being prepared and advanced by the owner of this repository ali katlabi
+This tutorial is being prepared and advanced by the owner of this repository ali katlabi
